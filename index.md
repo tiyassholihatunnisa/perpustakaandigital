@@ -3,7 +3,7 @@ Selamat Datang di Perpustakaan Digital Tiyas Sholihatun Nisa 13040124120036
 
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-0. [Artikel JIPIS](ebook/Artikel JIPIS.pdf) Praktikum Latihan Awal – Achmad, F. (2020) 
+0. [Artikel JIPIS](ebook/Artikel JIPIS.pdf) - Praktikum Latihan Awal – Achmad, F. (2020) 
 1. [Dari Matahari ke Stopkontak](ebook/Dari Matahari ke Stopkontak.pdf) - Tim Baca Gratis. (2026)
 2. [Upacara Tabuik Mengelola Konflik melalui Musik pada Masyarakat Minangkabau](ebook/Upacara Tabuik Mengelola Konflik melalui Musik pada Masyarakat Minangkabau.pdf) - Malik, Cameron. (2024)
 3. [Panduan Geowisata Menelusuri Jejak Dinamika Bumi pada Rangkaian Pegunungan Serayu dan Pantai Selatan Jawa](ebook/Panduan Geowisata Menelusuri Jejak Dinamika Bumi pada Rangkaian Pegunungan Serayu dan Pantai Selatan Jawa.pdf) - Chusni, A. dkk. (2016)
