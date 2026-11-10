@@ -15,4 +15,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Aku dan Duniaku](ebook/Aku dan Duniaku.pdf) - Miftahul, H. (2025)
 10. [Heterogenitas Sastra di Bali](ebook/Heterogenitas Sastra di Bali.pdf) - Putra, I. N. D. (2021)
 11. [Rangkuman UGC PATI](ebook/Rangkuman UGC PATI.pdf) - Tiyas. (2026)
+
 *Powered by GitHub Pages*
